@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--Created By: Shane O'Brien x11103400   	on: 15/10/2012-->
+<?xml-stylesheet href="stuff.xsl" type="text/xsl"?>
+<AssassinsCreed1 id="1">
+	<body>
+		<name>Assassin's Creed</name>
+                <image1/>
+		<Description>
+                        <h>Genre</h>
+			<genre>Action</genre>
+                        <h>Release Date</h>
+			<releaseDate>
+				<day>16</day>
+				<month>November</month>
+				<year>2007</year>
+			</releaseDate>
+                        <h>Player Info</h>
+			<playerInfo>One Player</playerInfo>
+                        <h>Publisher</h>
+			<publisher>Ubisoft</publisher>
+                        <h>Developer</h>
+			<Developer>Ubisoft Montreal</Developer>
+                        <h>Age Limit</h>
+			<ageLimit>16+</ageLimit>
+                          <h>Platforms</h>
+		<consoles>
+			<PS3>PS3</PS3>
+			<xBox>X-Box</xBox>
+		</consoles>
+                <h>Rating</h>
+		<rating> Rating = 8.8/10</rating>
+                        
+		</Description>
+              
+                <h>Description</h>
+			<p>The setting is 1191 AD. The Third Crusade is tearing the Holy Land apart. You, Altair, intend to stop the hostilities by suppressing both sides of the conflict. You are an Assassin, a warrior shrouded in secrecy and feared for your ruthlessness. Your actions can throw your immediate environment into chaos, and your existence will shape events during this pivotal moment in history.<!--http://ie.ign.com/games/assassins-creed/ps3-772025-->
+			</p>
+                <h>Judgement</h>
+		<judgement>
+			 <verdict>
+                         If you play Assassin's Creed for an hour, you will probably think it's a fantastic game. But as Assassin's progresses, its dual storylines and repetitive quests begin to grow tiresome. There are so many great individual elements, but they are lost among the myriad of poor decisions from Ubisoft Montreal. Wasting the big twist on the first five minutes of gameplay is a tremendous mistake, but not nearly as damaging as the ill-conceived assassination investigation quests, which get old fast. The exploration aspects of Assassin's Creed and the combat are both plusses in my book. But those two elements are only a small part of the whole.
+			 <!--http://ie.ign.com/articles/2007/11/13/assassins-creed-review?page=4-->
+			 </verdict>
+			 
+			 <![CDATA[
+			 Assassin's Creed < Assassin's Creed 2
+			 ]]>
+                         <h>Personal Opinion</h>
+			 <Opinion>Assassin's Creed was good but Assasssins Creed II was far better, Involving less repitive gameplay and smoother actions.It doesn't help that the voice acting for Altair is abysmal in the Original. 
+                         </Opinion>
+		</judgement>
+		
+	</body>
+
+</AssassinsCreed1>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!--Author: Sean Hoey x11000759 -->
+<assassinsCreed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation='assassinscreed.xsd'>
+
+
+<body>
+    <name>Assassin's creed 3</name>
+    <image5/>
+    <intro>Assassin's Creed III is a sandbox style action-adventure video game that is developed by Ubisoft Montreal and published by Ubisoft. It is the fifth main title in the Assassin's Creed series, and is a direct sequel to Assassin's Creed: Revelations. Ubisoft has claimed that the game will be bigger than its previous installments, and will complete the story of Desmond Miles.The game is set between 1753 and 1783, and focuses on a new ancestor, Ratonhnhaké:ton also known as connor, who fought during the American Revolution.</intro>
+    
+    <h>plot</h>
+    <AC>After the events of Assassin's Creed: Revelations on October 31, 2012, Desmond, his father William, Rebecca, and Shaun find the Temple in a cave in New York. Using the Apple to access the structure, Desmond activates a large portion of the equipment, as well as an apparent timer to the event expected on December 21, 2012. He then falls into a fugue, at which point he is returned to the Animus and bleeds back to Haytham Kenway, father to Connor. After playing as Haytham we start playing as connor from a young age as he grows up to learn to fight to defeat the templars schemes and protect his people.</AC>
+    
+    <h>Gameplay</h>
+    <AC>Exploration will be based around a large countryside area known as the Frontier, which is one and a half times larger than Rome in Assassin's Creed: Brotherhood, and not as empty as the Kingdom in Assassin's Creed, as one third of the quests and gameplay content are contained there. The cities of Boston and New York may also be explored, and will have new details and ambiance</AC>
+    <AC>More varied methods of movement have been added as well, including climbing trees, cliffs, and other natural elements, alongside leaping over wagons, or sliding under obstacles. Other freerunning elements also have Ratonhnhaké:ton jumping through windows, to trees, and then onto rooftops.</AC>
+    
+    <h>Combat</h>
+    <AC>Dual-wielding weapons has been implemented, while fighting and stealth have been completely overhauled with new features, such as "double-counters," "multiple takedowns," and chain kills. Ratonhnhaké:ton will go into battle with a wide variety of weapons at his disposal, including two Hidden Blades, a tomahawk, flintlock pistols, rope darts, and a bow and arrow. Ratonhnhaké:ton's second Hidden Blade is able to be ejected and used as a dagger, of which it can also be used to skin hunted animals. </AC>
+    <AC>The combat system has been greatly improved, as there are thousands of new animations, few of which have been carried over from previous installments. Simple defense and counter-attacks are now more difficult, and combat has been focused on putting Ratonhnhaké:ton on the offensive, with attacks based on both speed and momentum.</AC>
+    
+    <h>Hunting</h>
+    <AC>Ratonhnhaké:ton can now hunt animals, enabling him to sell the resources gathered from them. These resources can be more valuable depending on quality of the kill performed on the animal, and on the weapon type used to kill it. </AC>
+    
+    <h>Homestead</h>
+    <AC>Along with this, a new property system known as the Homestead will be added, in which Ratonhnhaké:ton will live in a manor with surrounding land, to which he can also invite other citizens to stay nearby. Here, the inhabitants will be given a second chance following the events of the war of the American Revolution, and will generate income through trade and crafting. Following this, the Homestead will expand with every resident that inhabits the area. </AC>
+    
+    </body>
+
+</assassinsCreed>

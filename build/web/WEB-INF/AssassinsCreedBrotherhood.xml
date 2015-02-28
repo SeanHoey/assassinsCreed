@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created By: Shane O'Brien x11103400   	on: 16/11/2012-->
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<AssassinsCreedII id="2">
+    <head>
+  
+    </head>
+	<body>
+		<name>Assassin's Creed: Brotherhood</name>
+                <image3/>
+		<Description>
+                        <h>Genre</h>
+			<genre>Action</genre>
+                        <h>Release Date</h>
+			<releaseDate>
+				<day>19</day>
+				<month>November</month>
+				<year>2010</year>
+			</releaseDate>                        
+			<h>Player Info</h>
+                        <playerInfo>One Player</playerInfo>
+			<h>Publisher</h>
+                        <publisher>Ubisoft</publisher>
+                        <h>Developer</h>
+			<Developer>Ubisoft Montreal</Developer>
+			<h>Age Limit</h>
+                        <ageLimit>18</ageLimit>
+                        <h>Platforms</h>
+                <consoles>
+			<PS3>PS3</PS3>
+			<xBox>X-Box</xBox>
+		</consoles>
+                <h>Rating</h>
+		<rating>8.5/10</rating>
+                </Description>
+		              
+                <h>Description</h>
+		<div id="targetDiv">The critically acclaimed single-player experience of Assassin's Creed is back and better than ever as Ezio returns in an epic struggle against the powerful Templar Order.Now a legendary Master Assassin, 
+                    Ezio must journey into Italy's greatest city, Rome, center of power, greed and corruption to strike at the heart of the enemy. Defeating the corrupt tyrants entrenched there will require not only strength, but leadership, as Ezio commands an entire Brotherhood that will rally to his side. 
+                    Only by working together can the Assassins defeat their mortal enemies. Assassin's Creed Brotherhood offers a never-before-seen multiplayer layer. 
+                    Players can help the Templars by using Abstergo to train in the art of Assassination to eliminate the Assassins once and for all. Players can choose from a wide range of unique characters, each with their own signature weapons and assassination techniques, 
+                    and match their skills against other players from all over the world in different game modes. 
+                </div>
+               
+             <!--   <h>Judgement</h>
+		<judgement>
+			 <verdict>
+                         http://ie.ign.com/games/assassins-creed-brotherhood/ps3-57511
+			 </verdict>
+                </judgement>
+		-->
+	</body>
+
+</AssassinsCreedII>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Main Page</title>
+        <script type="text/javascript">
+            var XMLHttpRequestObject = false;
+            
+            if (window.XMLHttpRequest) {
+                XMLHttpRequestObject = new XMLHttpRequest();
+            } else if (window.ActiveXObject) {
+                XMLHttpRequestObject = new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            
+            function getData(datasource, divID) {
+                if (XMLHttpRequestObject) {
+                    var obj = document.getElementById(divID);
+                    XMLHttpRequestObject.open("GET", datasource);
+                    XMLHttpRequestObject.onreadystatechange = function() 
+                    {
+                        if (XMLHttpRequestObject.readyState == 4 &&
+                            XMLHttpRequestObject.status == 200) {
+                            obj.innerHTML = XMLHttpRequestObject.responseText;
+                        }
+                    }
+                    XMLHttpRequestObject.send(null);
+                }
+            }
+        </script>     
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body background="Logo.jpg">
+        <table> <td><a href="mainpage.html">Home</a></td> <td><a href="AC1">Assassin's Creed</a></td> <td><a href="AC2">Assassin's Creed 2</a></td> <td><a href="AC3">Assassin's Creed Brotherhood</a></td> <td><a href="AC4">Assassin's Creed Revelations</a></td> <td><a href="AC5">Assassin's Creed 3</a></td><td><a href="Credits.html">Game Credits</a></td></table> <br/><hr/>
+        <h1>Assassin's Creed wiki</h1>
+        <!--Author: Shane O'Brien x11103400 -->
+        <br />               
+
+        <div Id="intro">Assassins creed is a set of game that is set in different time and place over the world. The first game was released on 3 in November 2007 and the latest game has came on the 31 of october 2012.
+            The game follows desmond as he is put into a machine that allows him to experience his ancestor memories, the player get to control the ancestor and do missions passed on the ancestors memory.
+        </div>
+        <br />
+        <a href="AC1"><img src="Assassinscreed.jpg" height="250" width="250" onmouseover="getData('Assassins_Creed_One.txt','targetDivs0')"/></a>
+        <br />
+        <b>Assassins Creed</b>
+        <div id="targetDivs0"><p></p></div>
+        <br />
+
+        <a href="AC2"><img src="ac2.jpg" height="250" width="250" onmouseover="getData('Assassins_Creed_II.txt','targetDivs1')"/></a>
+        <br />
+        <b>Assassins Creed 2</b>
+        <div id="targetDivs1"><p></p></div>
+        <br />
+
+        <a href="AC3"><img src="acB.jpg" height="250" width="250" onmouseover="getData('Brotherhood.txt','targetDivs2')"/></a>
+        <br />
+        <b>Assassins Creed Brotherhood</b>
+        <div id="targetDivs2"><p></p></div>
+        <br />
+
+        <a href="AC4"><img src="acR.jpg" height="250" width="250" onmouseover="getData('Revelations.txt','targetDivs3')"/></a>
+        <br />
+        <b>Assassins Creed Revelations</b>
+        <div id="targetDivs3"><p></p></div>
+        <br />
+
+        <a href="AC5"><img src="ac3.jpg" height="250" width="250" onmouseover="getData('Assassins_Creed_III','targetDivs4')"/></a>
+        <br />
+        <b>Assassins Creed 3</b>
+        <div id="targetDivs4"><p></p></div>
+        <br />
+
+    </body>
+</html>

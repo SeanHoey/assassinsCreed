@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!--Author: Sean Hoey x11000759 -->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+<xs:element name="assassinsCreed">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="name" type="xs:string"/>
+      <xs:element name="game" type="xs:string"/>
+      <xs:element name="intro" type="xs:string"/>
+      <xs:element name="AC" type="xs:string"/>
+      <xs:element name="h" type="xs:string"/>
+      <xs:element name="image1"/>
+      <xs:element name="image2"/>
+      <xs:element name="image3"/>
+      <xs:element name="image4"/>
+      <xs:element name="image5"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="game">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="name" type="string"/>
+      <xs:element name="intro" type="xs:string"/>
+      <xs:element name="AC" type="xs:string"/>
+      <xs:element name="image1"/>
+      <xs:element name="image2"/>
+      <xs:element name="image3"/>
+      <xs:element name="image4"/>
+      <xs:element name="image5"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+
+
+1</xs:schema>

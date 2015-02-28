@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!--Author: Sean Hoey x11000759 -->
+<assassinsCreed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation='assassinscreed.xsd'>
+
+   
+ 
+         <name> Assassins creed wiki </name>
+        <intro> Assassins creed is a set of game that is set in different time and place over the world. The first game was released on 3 in November 2007 and the latest game has came on the 31 of october 2012.
+        The game follows desmond as he is put into a machine that allows him to experence his ancestor memories, the player get to control the ancestor and do missions passed on the ancestors memory.
+        </intro>
+        <image1/>
+        <AC><b>Assassins Creed</b> we play as Altaïr Ibn-La'Ahad who is a syrian assassin. The game is set in middle ages in the middle-east, the main plot of the game is to stop the head of the templar order from getting there hands on the apple of eden.</AC>
+        <image2/>
+        <AC><b>Assassins Creed 2</b> we take control of Ezio Auditore da Firenze. in the game desmond an attempt to thwart Abstergo and the modern-day Templars, Desmond uses a new Animus to relive the genetic memories of his ancestor, Ezio Auditore da Firenze, who lived in Italy during the Renaissance. The player controls Desmond to a degree, but primarily Ezio, who becomes an Assassin after his family is betrayed. While controlling Ezio, the player can explore renditions of major Italian regions and cities through a mixture of action, stealth, and economic gameplay.</AC>
+        <image3/>
+        <AC><b>Assassins Creed Brotherhood</b> the story once again features Ezio Auditore da Firenze, now a legendary Master Assassin, as he strives to rebuild the Assassin Brotherhood in Rome, by bringing down the tyrannical Templar family, the Borgia, and bringing the city into the true wealth and wonder of the Renaissance.</AC>
+        <image4/>
+        <AC><b>Assassins Creed Revelations</b> is the last instalment of Ezio Auditore da Firenze. We see Ezio travel to Constantinople in search of answers, here he meets the leader of the assassins guild and with the help of the assassins guild looks for the five keys to the vault</AC>
+        <image5/>
+        <AC><b>Assassins Creed 3</b> is the latest game in the series we play as a new assassin called Conner who is half native americian and half english during the americian revelution. We see conner fighting against the templars and English after his mother was killed.</AC>
+    
+</assassinsCreed>

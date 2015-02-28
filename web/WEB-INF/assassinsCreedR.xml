@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!--Author: Sean Hoey x11000759 -->
+<assassinsCreed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation='assassinscreed.xsd'>
+
+    
+    
+<body> 
+<name>Assassins Creed Revelations</name>
+<image4/>
+    <intro>
+        Assassin's Creed: Revelations is a game published by Ubisoft and was developed by its subsidiary, Ubisoft Montreal. A direct sequel and follow-up to 2010's Assassin's Creed: Brotherhood, Revelations is the fourth main installment of the series.
+    </intro>
+    <h>Plot</h>
+    <h>Modern day</h>
+    <AC>Present-day protagonist Desmond Miles had fallen into a coma from the previous events of the previous games, and to save Desmond's mind, the Assassins had put him into a specialized safe area of the Animus, called The Black Room. Upon awakening inside the Animus, Desmond met the consciousness of Subject 16, who occupied the Animus before him. Sixteen explained that Desmond's mind was fragmented, and that the only way for him to separate the pieces of himself from those of his ancestors was to continue to play out their stories until there was nothing left for them to show Desmond, known as a Synch Nexus. Once he reached that point, the Animus would be able to separate the three individual's memories.</AC>
+    <h>Past</h>
+    <AC>Desmond entered the Black Room's memory corridor, which once again placed him in the perspective of Ezio Auditore. Ezio had traveled to Masyaf to attempt to unlock the secrets that Altaïr Ibn-La'Ahad had previously discovered and to find his true purpose in the struggle between the Assassins and the Templars. Upon arriving, he found the stronghold overrun by the Templars, who captured him and planned his execution.</AC>
+    <AC>Ezio escaped to the bowels of the fortress where he discovered the entrance to Altaïr's library. He learned that five keys were required to unlock the door, that the Templars had the first, and that Niccolò Polo's journal would lead them to the rest. Ezio pursued a Templar captain, Leandros, to the Atlas village and recovered the journal from him. He learned that the remaining keys lie hidden in Constantinople, and that the Templars hoped to find the location of the Grand Temple in the library.</AC>
+    <AC>Upon arriving in Constantinople, Ezio was greeted by Yusuf Tazim, the leader of the local Assassins Guild, and befriended a young student. While searching for Niccolò 's old trading post, Ezio came across and befriended Sofia Sartor, a young Italian traveler and book collector, and quickly became infatuated with her. Having recovered his first key and an encoded map from the Yerebatan Cistern, which would lead Ezio to the keys, he learned that each one was encoded with Altaïr's memories. Each key allowed Ezio to have an Animus-like experience in which he relived key moments of Altaïr's life.</AC>
+    <h>Gameplay</h>
+    <AC>The gameplay system from Assassin's Creed: Brotherhood was the basis for Revelations, though Ezio's free-running and combat skills had been upgraded with new features. Recruits and Desmond gameplay had been further expanded, though not all desired features were implemented, as the developer interviews indicated.</AC>
+    <h>Hookblade</h>
+    <AC>One of the primary new features was the Hookblade. An extension to the usual Hidden Blade in combat, the Hookblade allowed for grappling, throws, and new evasive maneuvers. Outside of combat, the Hookblade accelerated climbing and allowed Ezio to make use of the Ziplines placed around Constantinople.</AC>
+    <h>Bombs</h>
+    <AC>Also new to Revelations were Bombs, which required a component-based crafting system, allowing Ezio to make bombs for any purpose to aid in his missions.</AC>
+    <h>Eagle vision</h>
+    <AC>Eagle vision had been modified into Eagle Sense, which could allow the player to focus on a character and determine the route they had taken. This would thus give the player an estimation of where they would go, which would be useful for ambushes or locating a secluded place to strike a target. Also, when a custom marker was set, using Eagle Sense to trace it would show a pillar of light that disappeared when Ezio got within a certain distance of it.</AC>
+    <h>Recruits</h>
+    <AC>The Assassin recruit system had also been altered. While recruiting process had been expanded with new mission types, seven recruits could also be raised to a rank that allowed them to become masters of Assassin Dens. Recruiting missions had also been revamped to be far more detailed than before, requiring Ezio to aid citizens or complete a race challenge before the recruit joined Ezio's cause.</AC>
+</body>
+</assassinsCreed>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created By: Shane O'Brien x11103400   	on: 14/11/2012-->
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<AssassinsCreedII id="2">
+	<body>
+		<name>Assassin's Creed II</name>
+                <image2/>
+		<Description>
+                        <h>Genre</h>
+			<genre>Action</genre>
+                        <h>Release Date</h>
+			<releaseDate>
+				<day>20</day>
+				<month>November</month>
+				<year>2009</year>
+			</releaseDate>                        
+			<h>Player Info</h>
+                        <playerInfo>One Player</playerInfo>
+			<h>Publisher</h>
+                        <publisher>Ubisoft</publisher>
+                        <h>Developer</h>
+			<Developer>Ubisoft Montreal</Developer>
+			<h>Age Limit</h>
+                        <ageLimit>16+</ageLimit>
+                        <h>Platforms</h>
+                <consoles>
+			<PS3>PS3</PS3>
+			<xBox>X-Box</xBox>
+		</consoles>
+                <h>Rating</h>
+		<rating> Rating = 16/20</rating>
+                        
+		</Description>
+		<h>Description</h>
+			<p>
+                        Delve deeper into the secret society of assassins with the sequel to the blockbuster action-adventure game. Assassin's Creed 2 is an epic story of family, vengeance and conspiracy set in the pristine, yet brutal, backdrop of a Renaissance Italy. Ezio befriends Leonardo da Vinci, takes on Florence's most powerful families and ventures throughout the canals of Venice where he learns to become a master assassin. This game retains the core gameplay experience that made the first opus a resounding success and features new experiences that will surprise and challenge players.     
+                        </p>
+                <h>Judgement</h>
+		<judgement>
+			 <verdict>
+                         <!--http://ie.ign.com/games/assassins-creed-ii/ps3-14302494-->
+			 </verdict>
+			 <!--
+			 <![CDATA[
+			 Assassin's Creed < Assassin's Creed 2
+			 ]]>
+			 <Opinion>
+                         </Opinion> -->
+		</judgement>
+		
+	</body>
+
+</AssassinsCreedII>
+
